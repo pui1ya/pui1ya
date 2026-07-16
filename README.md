@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B2635,100:E8DCC8&height=220&section=header&text=Punya%20Shree%20S&fontSize=42&fontColor=FFF8F0&animation=twinkling&fontAlignY=38&desc=Final-Year%20CS%20Student%20%7C%20Aspiring%20Data%20Engineer%20%26%20Full-Stack%20Developer%20%7C%20Technophile&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B2635,100:E8DCC8&height=220&section=header&text=Punya%20Shree%20S&fontSize=42&fontColor=FFF8F0&animation=twinkling&fontAlignY=38&desc=Final%20Year%20CS%20Student%20Aspiring%20Data%20Engineer%20and%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B2635&center=true&vCenter=true&width=650&lines=Building+Code+Ground+%F0%9F%92%BB;Data+Engineer+in+the+Making+%F0%9F%93%8A;Full-Stack+%2B+Data+Science+%3D+%E2%9D%A4%EF%B8%8F;Crocheting+Between+Commits+%F0%9F%A7%B6" alt="Typing SVG" />
@@ -47,7 +47,7 @@ const punya = {
 > Real-time collaborative code editor with an integrated AI pair programmer — enabling seamless multi-user editing, live synchronization, and intelligent in-editor code assistance. *(Deployment coming soon 🚀)*
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pui1ya&repo=code-ground&theme=nord&border_color=8B2635&title_color=8B2635&text_color=5c4033&bg_color=FFF8F0&hide_border=false" alt="Code Ground Repo Card"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pui1ya&repo=code-ground&theme=nord&border_color=8B2635&title_color=8B2635&text_color=5c4033&bg_color=FFF8F0&hide_border=false" alt="Code Ground Repo Card"/>
 </div>
 
 | Layer | Technology |
@@ -71,7 +71,7 @@ const punya = {
 > Modular Python ETL pipelines and ML-driven analytics for customer churn prediction, paired with interactive Power BI dashboards for automated, data-driven business reporting. *(Not yet deployed — next banger project in progress 👀)*
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pui1ya&repo=Auto-BI&theme=nord&border_color=8B2635&title_color=8B2635&text_color=5c4033&bg_color=FFF8F0&hide_border=false" alt="Auto BI Repo Card"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pui1ya&repo=Auto-BI&theme=nord&border_color=8B2635&title_color=8B2635&text_color=5c4033&bg_color=FFF8F0&hide_border=false" alt="Auto BI Repo Card"/>
 </div>
 
 | Layer | Technology |
@@ -121,8 +121,8 @@ const punya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pui1ya&show_icons=true&theme=nord&hide_border=true&border_color=8B2635&title_color=8B2635&icon_color=8B2635&text_color=5c4033&bg_color=FFF8F0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pui1ya&layout=compact&theme=nord&hide_border=true&title_color=8B2635&text_color=5c4033&bg_color=FFF8F0" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pui1ya&show_icons=true&theme=nord&hide_border=true&border_color=8B2635&title_color=8B2635&icon_color=8B2635&text_color=5c4033&bg_color=FFF8F0" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pui1ya&layout=compact&theme=nord&hide_border=true&title_color=8B2635&text_color=5c4033&bg_color=FFF8F0" width="42%"/>
 
 <br/>
 
@@ -130,7 +130,7 @@ const punya = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pui1ya&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
+<img src="https://github-profile-trophy-eight.vercel.app/?username=pui1ya&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
 
 <br/><br/>
 
